@@ -1,0 +1,1205 @@
+global coverage_group 0 $unit::funct_coverage::cov_wishbone_write __coverage_funct_coverage.cov_wishbone_write unused_funct_coverage_cov_wishbone_write_loop_label $unit 0 1 0 1 $unit::/apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-ieee/src/macros/snps_macros.svp::/apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-ieee/src/macros/uvm_callback_defines.svh...@2857100393 0  ( 0 
+)
+ 1 1
+ 0 24 /home/runner/coverage.sv
+ 64 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+5
+0
+1
+0
+ 21 feature_wb_stb_i_high 65 0 0 0 0 0 74 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_write_fn 74 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_write_fn 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 1 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 1 0 0 1 1 10 stb_i_is_1 66 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 76 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_write_fn_0 0 0 0 0 0 0 0
+ 0
+
+ 21 feature_wb_cyc_i_high 69 0 0 0 0 0 76 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_write_fn_1 76 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_write_fn_1 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 1 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 1 0 0 1 1 10 cyc_i_is_1 70 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 76 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_write_fn_0 0 0 0 0 0 0 0
+ 0
+
+ 20 feature_wb_we_i_high 73 0 0 0 0 0 76 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_write_fn_2 76 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_write_fn_2 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 1 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 1 0 0 1 1 9 we_i_is_1 74 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 76 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_write_fn_0 0 0 0 0 0 0 0
+ 0
+
+ 21 feature_wb_ack_o_high 77 0 0 0 0 0 76 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_write_fn_3 76 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_write_fn_3 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 1 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 1 0 0 1 1 10 ack_o_is_1 78 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 76 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_write_fn_0 0 0 0 0 0 0 0
+ 0
+
+ 18 feature_data_write 81 0 0 0 0 0 76 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_write_fn_4 76 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_write_fn_4 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 32 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 4 1 1 0 0 1 1 16 range_0_3FFFFFFF 82 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 76 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_write_fn_5 0 76 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_write_fn_6 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 23 range_40000000_7FFFFFFF 83 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 76 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_write_fn_7 0 76 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_write_fn_8 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 23 range_80000000_BFFFFFFF 84 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 76 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_write_fn_9 0 76 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_write_fn_a 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 23 range_C0000000_FFFFFFFF 85 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 76 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_write_fn_b 0 76 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_write_fn_c 0 0 0 0 0
+ 0
+
+ 22 cross_wb_signals_write 0 88 0 0 -1 0 0 0 0 5 0 1 2 3 4 -1 0 0 0
+ 0
+ 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 4 1 1 0 0 -1 0 0 1 1 25 all_high_range_0_3FFFFFFF 93 0 1 0 1 9 1 0 0 1 10 stb_i_is_1 0 0 0 0 0 1 0 1 1 10 cyc_i_is_1 0 0 0 0 0 0 0 1 0 2 1 9 we_i_is_1 0 0 0 0 0 0 0 1 0 3 1 10 ack_o_is_1 0 0 0 0 0 0 0 1 0 4 1 16 range_0_3FFFFFFF 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 32 all_high_range_40000000_7FFFFFFF 98 0 1 0 1 9 1 0 0 1 10 stb_i_is_1 0 0 0 0 0 1 0 1 1 10 cyc_i_is_1 0 0 0 0 0 0 0 1 0 2 1 9 we_i_is_1 0 0 0 0 0 0 0 1 0 3 1 10 ack_o_is_1 0 0 0 0 0 0 0 1 0 4 1 23 range_40000000_7FFFFFFF 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 32 all_high_range_80000000_BFFFFFFF 103 0 1 0 1 9 1 0 0 1 10 stb_i_is_1 0 0 0 0 0 1 0 1 1 10 cyc_i_is_1 0 0 0 0 0 0 0 1 0 2 1 9 we_i_is_1 0 0 0 0 0 0 0 1 0 3 1 10 ack_o_is_1 0 0 0 0 0 0 0 1 0 4 1 23 range_80000000_BFFFFFFF 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 32 all_high_range_C0000000_FFFFFFFF 108 0 1 0 1 9 1 0 0 1 10 stb_i_is_1 0 0 0 0 0 1 0 1 1 10 cyc_i_is_1 0 0 0 0 0 0 0 1 0 2 1 9 we_i_is_1 0 0 0 0 0 0 0 1 0 3 1 10 ack_o_is_1 0 0 0 0 0 0 0 1 0 4 1 23 range_C0000000_FFFFFFFF 0 0 0 0 0 0 0 0 0 0 0 0
+
+end_coverage_group
+global coverage_group 0 $unit::funct_coverage::cov_wishbone_read __coverage_funct_coverage.cov_wishbone_read unused_funct_coverage_cov_wishbone_read_loop_label $unit 0 1 0 1 $unit::/apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-ieee/src/macros/snps_macros.svp::/apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-ieee/src/macros/uvm_callback_defines.svh...@2857100393 0  ( 0 
+)
+ 0 112 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+5
+0
+1
+0
+ 21 feature_wb_stb_i_high 113 0 0 0 0 0 73 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_read_fn 73 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_read_fn 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 1 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 1 0 0 1 1 10 stb_i_is_1 114 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_read_fn_0 0 0 0 0 0 0 0
+ 0
+
+ 21 feature_wb_cyc_i_high 117 0 0 0 0 0 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_read_fn_1 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_read_fn_1 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 1 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 1 0 0 1 1 10 cyc_i_is_1 118 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_read_fn_0 0 0 0 0 0 0 0
+ 0
+
+ 19 feature_wb_we_i_low 121 0 0 0 0 0 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_read_fn_2 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_read_fn_2 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 1 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 1 0 0 1 1 9 we_i_is_0 122 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_read_fn_3 0 0 0 0 0 0 0
+ 0
+
+ 21 feature_wb_ack_o_high 125 0 0 0 0 0 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_read_fn_4 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_read_fn_4 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 1 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 1 0 0 1 1 10 ack_o_is_1 126 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_read_fn_0 0 0 0 0 0 0 0
+ 0
+
+ 17 feature_data_read 129 0 0 0 0 0 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_read_fn_5 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_read_fn_5 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 32 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 4 1 1 0 0 1 1 16 range_0_3FFFFFFF 130 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_read_fn_6 0 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_read_fn_7 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 23 range_40000000_7FFFFFFF 131 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_read_fn_8 0 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_read_fn_9 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 23 range_80000000_BFFFFFFF 132 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_read_fn_a 0 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_read_fn_b 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 23 range_C0000000_FFFFFFFF 133 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_read_fn_c 0 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_wishbone_read_fn_d 0 0 0 0 0
+ 0
+
+ 21 cross_wb_signals_read 0 136 0 0 -1 0 0 0 0 5 0 1 2 3 4 -1 0 0 0
+ 0
+ 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 4 1 1 0 0 -1 0 0 1 1 25 all_high_range_0_3FFFFFFF 141 0 1 0 1 9 1 0 0 1 10 stb_i_is_1 0 0 0 0 0 1 0 1 1 10 cyc_i_is_1 0 0 0 0 0 0 0 1 0 2 1 9 we_i_is_0 0 0 0 0 0 0 0 1 0 3 1 10 ack_o_is_1 0 0 0 0 0 0 0 1 0 4 1 16 range_0_3FFFFFFF 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 32 all_high_range_40000000_7FFFFFFF 146 0 1 0 1 9 1 0 0 1 10 stb_i_is_1 0 0 0 0 0 1 0 1 1 10 cyc_i_is_1 0 0 0 0 0 0 0 1 0 2 1 9 we_i_is_0 0 0 0 0 0 0 0 1 0 3 1 10 ack_o_is_1 0 0 0 0 0 0 0 1 0 4 1 23 range_40000000_7FFFFFFF 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 32 all_high_range_80000000_BFFFFFFF 151 0 1 0 1 9 1 0 0 1 10 stb_i_is_1 0 0 0 0 0 1 0 1 1 10 cyc_i_is_1 0 0 0 0 0 0 0 1 0 2 1 9 we_i_is_0 0 0 0 0 0 0 0 1 0 3 1 10 ack_o_is_1 0 0 0 0 0 0 0 1 0 4 1 23 range_80000000_BFFFFFFF 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 32 all_high_range_C0000000_FFFFFFFF 156 0 1 0 1 9 1 0 0 1 10 stb_i_is_1 0 0 0 0 0 1 0 1 1 10 cyc_i_is_1 0 0 0 0 0 0 0 1 0 2 1 9 we_i_is_0 0 0 0 0 0 0 0 1 0 3 1 10 ack_o_is_1 0 0 0 0 0 0 0 1 0 4 1 23 range_C0000000_FFFFFFFF 0 0 0 0 0 0 0 0 0 0 0 0
+
+end_coverage_group
+global coverage_group 0 $unit::funct_coverage::cov_sdr_config __coverage_funct_coverage.cov_sdr_config unused_funct_coverage_cov_sdr_config_loop_label $unit 0 1 0 1 $unit::/apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-ieee/src/macros/snps_macros.svp::/apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-ieee/src/macros/uvm_callback_defines.svh...@2857100393 0  ( 0 
+)
+ 0 160 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+5
+0
+2
+0
+ 28 feature_cfg_sdr_mode_reg_023 161 0 0 0 0 0 70 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_sdr_config_fn 70 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_sdr_config_fn 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 12 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 1 0 0 1 1 8 mode_023 162 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 72 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_sdr_config_fn_0 0 0 0 0 0 0 0
+ 0
+
+ 28 feature_cfg_sdr_mode_reg_033 165 0 0 0 0 0 70 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_sdr_config_fn 70 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_sdr_config_fn 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 12 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 1 0 0 1 1 8 mode_033 166 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 72 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_sdr_config_fn_1 0 0 0 0 0 0 0
+ 0
+
+ 21 feature_cfg_sdr_cas_2 169 0 0 0 0 0 72 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_sdr_config_fn_2 72 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_sdr_config_fn_2 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 3 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 1 0 0 1 1 5 cas_2 170 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 72 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_sdr_config_fn_3 0 0 0 0 0 0 0
+ 0
+
+ 21 feature_cfg_sdr_cas_3 173 0 0 0 0 0 72 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_sdr_config_fn_2 72 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_sdr_config_fn_2 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 3 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 1 0 0 1 1 5 cas_3 174 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 72 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_sdr_config_fn_4 0 0 0 0 0 0 0
+ 0
+
+ 22 feature_read_operation 177 0 0 0 0 0 72 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_sdr_config_fn_5 72 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_sdr_config_fn_5 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 1 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 1 0 0 1 1 11 read_active 178 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 72 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_sdr_config_fn_6 0 0 0 0 0 0 0
+ 0
+
+ 20 cross_cfg_023_2_read 0 181 0 0 -1 0 0 0 0 3 0 2 4 -1 0 0 0
+ 0
+ 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 1 0 0 -1 0 0 1 1 14 cfg_023_2_read 182 0 1 0 1 5 1 0 0 1 8 mode_023 0 0 0 0 0 1 0 2 1 5 cas_2 0 0 0 0 0 0 0 1 0 4 1 11 read_active 0 0 0 0 0 0 0 0 0 0 0 0
+
+ 20 cross_cfg_033_3_read 0 185 0 0 -1 0 0 0 0 3 1 3 4 -1 0 0 0
+ 0
+ 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 1 0 0 -1 0 0 1 1 14 cfg_033_3_read 186 0 1 0 1 5 1 0 1 1 8 mode_033 0 0 0 0 0 1 0 3 1 5 cas_3 0 0 0 0 0 0 0 1 0 4 1 11 read_active 0 0 0 0 0 0 0 0 0 0 0 0
+
+end_coverage_group
+global coverage_group 0 $unit::funct_coverage::cov_col_bits __coverage_funct_coverage.cov_col_bits unused_funct_coverage_cov_col_bits_loop_label $unit 0 1 0 1 $unit::/apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-ieee/src/macros/snps_macros.svp::/apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-ieee/src/macros/uvm_callback_defines.svh...@2857100393 0  ( 0 
+)
+ 0 190 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+2
+0
+1
+0
+ 20 feature_cfg_col_bits 191 0 0 0 0 0 68 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_col_bits_fn 68 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_col_bits_fn 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 2 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 4 1 1 0 0 1 1 6 cfg_00 192 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 70 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_col_bits_fn_0 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 6 cfg_01 193 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 70 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_col_bits_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 6 cfg_10 194 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 70 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_col_bits_fn_2 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 6 cfg_11 195 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 70 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_col_bits_fn_3 0 0 0 0 0 0 0
+ 0
+
+ 10 feature_we 198 0 0 0 0 0 70 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_col_bits_fn_4 70 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_col_bits_fn_4 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 1 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 2 1 1 0 0 1 1 8 we_write 199 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 70 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_col_bits_fn_5 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 7 we_read 200 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 70 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_col_bits_fn_6 0 0 0 0 0 0 0
+ 0
+
+ 14 cross_cfg_bank 0 203 0 0 -1 0 0 0 0 2 0 1 -1 0 0 0
+ 0
+ 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 8 1 1 0 0 -1 0 0 1 1 15 cfg_00_we_write 204 0 1 0 1 3 1 0 0 1 6 cfg_00 0 0 0 0 0 1 0 1 1 8 we_write 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 15 cfg_01_we_write 205 0 1 0 1 3 1 0 0 1 6 cfg_01 0 0 0 0 0 1 0 1 1 8 we_write 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 15 cfg_10_we_write 206 0 1 0 1 3 1 0 0 1 6 cfg_10 0 0 0 0 0 1 0 1 1 8 we_write 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 15 cfg_11_we_write 207 0 1 0 1 3 1 0 0 1 6 cfg_11 0 0 0 0 0 1 0 1 1 8 we_write 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 14 cfg_00_we_read 208 0 1 0 1 3 1 0 0 1 6 cfg_00 0 0 0 0 0 1 0 1 1 7 we_read 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 14 cfg_01_we_read 209 0 1 0 1 3 1 0 0 1 6 cfg_01 0 0 0 0 0 1 0 1 1 7 we_read 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 14 cfg_10_we_read 210 0 1 0 1 3 1 0 0 1 6 cfg_10 0 0 0 0 0 1 0 1 1 7 we_read 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 14 cfg_11_we_read 211 0 1 0 1 3 1 0 0 1 6 cfg_11 0 0 0 0 0 1 0 1 1 7 we_read 0 0 0 0 0 0 0 0 0 0 0 0
+
+end_coverage_group
+global coverage_group 0 $unit::funct_coverage::cov_chip_select __coverage_funct_coverage.cov_chip_select unused_funct_coverage_cov_chip_select_loop_label $unit 0 1 0 1 $unit::/apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-ieee/src/macros/snps_macros.svp::/apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-ieee/src/macros/uvm_callback_defines.svh...@2857100393 0  ( 0 
+)
+ 0 215 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+2
+0
+1
+0
+ 16 feature_sdr_cs_n 216 0 0 0 0 0 71 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_chip_select_fn 71 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_chip_select_fn 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 1 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 2 1 1 0 0 1 1 9 cs_n_is_0 217 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 73 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_chip_select_fn_0 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 9 cs_n_is_1 218 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 73 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_chip_select_fn_1 0 0 0 0 0 0 0
+ 0
+
+ 15 feature_wb_we_i 221 0 0 0 0 0 73 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_chip_select_fn_2 73 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_chip_select_fn_2 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 1 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 2 1 1 0 0 1 1 7 we_is_0 222 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 73 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_chip_select_fn_0 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 7 we_is_1 223 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 73 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_chip_select_fn_1 0 0 0 0 0 0 0
+ 0
+
+ 25 cross_chip_select_signals 0 226 0 0 -1 0 0 0 0 2 0 1 -1 0 0 0
+ 0
+ 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 1 0 0 -1 0 0 1 1 10 cs_n_cross 227 0 1 0 1 3 1 0 0 1 9 cs_n_is_0 0 0 0 0 0 1 0 1 1 7 we_is_1 0 0 0 0 0 0 0 0 0 0 0 0
+
+end_coverage_group
+global coverage_group 0 $unit::funct_coverage::cov_write_address __coverage_funct_coverage.cov_write_address unused_funct_coverage_cov_write_address_loop_label $unit 0 1 0 1 $unit::/apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-ieee/src/macros/snps_macros.svp::/apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-ieee/src/macros/uvm_callback_defines.svh...@2857100393 0  ( 0 
+)
+ 0 231 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+2
+0
+1
+0
+ 10 feature_we 232 0 0 0 0 0 73 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_write_address_fn 73 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_write_address_fn 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 1 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 1 0 0 1 1 8 we_write 233 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_write_address_fn_0 0 0 0 0 0 0 0
+ 0
+
+ 18 feature_addr_range 236 0 0 0 0 0 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_write_address_fn_1 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_write_address_fn_1 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 32 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 4 1 1 0 0 1 1 7 range_0 237 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_write_address_fn_2 0 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_write_address_fn_3 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 7 range_1 238 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_write_address_fn_4 0 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_write_address_fn_5 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 7 range_2 239 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_write_address_fn_6 0 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_write_address_fn_7 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 7 range_3 240 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_write_address_fn_8 0 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_write_address_fn_9 0 0 0 0 0
+ 0
+
+ 13 cross_we_addr 0 243 0 0 -1 0 0 0 0 2 0 1 -1 0 0 0
+ 0
+ 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 4 1 1 0 0 -1 0 0 1 1 10 we_range_0 244 0 1 0 1 3 1 0 0 1 8 we_write 0 0 0 0 0 1 0 1 1 7 range_0 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 10 we_range_1 245 0 1 0 1 3 1 0 0 1 8 we_write 0 0 0 0 0 1 0 1 1 7 range_1 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 10 we_range_2 246 0 1 0 1 3 1 0 0 1 8 we_write 0 0 0 0 0 1 0 1 1 7 range_2 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 10 we_range_3 247 0 1 0 1 3 1 0 0 1 8 we_write 0 0 0 0 0 1 0 1 1 7 range_3 0 0 0 0 0 0 0 0 0 0 0 0
+
+end_coverage_group
+global coverage_group 0 $unit::funct_coverage::cov_read_address __coverage_funct_coverage.cov_read_address unused_funct_coverage_cov_read_address_loop_label $unit 0 1 0 1 $unit::/apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-ieee/src/macros/snps_macros.svp::/apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-ieee/src/macros/uvm_callback_defines.svh...@2857100393 0  ( 0 
+)
+ 0 251 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+2
+0
+1
+0
+ 10 feature_we 252 0 0 0 0 0 72 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_read_address_fn 72 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_read_address_fn 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 1 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 1 0 0 1 1 7 we_read 253 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 74 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_read_address_fn_0 0 0 0 0 0 0 0
+ 0
+
+ 18 feature_addr_range 256 0 0 0 0 0 74 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_read_address_fn_1 74 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_read_address_fn_1 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 32 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 4 1 1 0 0 1 1 7 range_0 257 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 74 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_read_address_fn_2 0 74 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_read_address_fn_3 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 7 range_1 258 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 74 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_read_address_fn_4 0 74 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_read_address_fn_5 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 7 range_2 259 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 74 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_read_address_fn_6 0 74 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_read_address_fn_7 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 7 range_3 260 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 74 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_read_address_fn_8 0 74 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_read_address_fn_9 0 0 0 0 0
+ 0
+
+ 13 cross_we_addr 0 263 0 0 -1 0 0 0 0 2 0 1 -1 0 0 0
+ 0
+ 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 4 1 1 0 0 -1 0 0 1 1 12 read_range_0 264 0 1 0 1 3 1 0 0 1 7 we_read 0 0 0 0 0 1 0 1 1 7 range_0 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 12 read_range_1 265 0 1 0 1 3 1 0 0 1 7 we_read 0 0 0 0 0 1 0 1 1 7 range_1 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 12 read_range_2 266 0 1 0 1 3 1 0 0 1 7 we_read 0 0 0 0 0 1 0 1 1 7 range_2 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 12 read_range_3 267 0 1 0 1 3 1 0 0 1 7 we_read 0 0 0 0 0 1 0 1 1 7 range_3 0 0 0 0 0 0 0 0 0 0 0 0
+
+end_coverage_group
+global coverage_group 0 $unit::funct_coverage::cov_sel_range __coverage_funct_coverage.cov_sel_range unused_funct_coverage_cov_sel_range_loop_label $unit 0 1 0 1 $unit::/apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-ieee/src/macros/snps_macros.svp::/apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-ieee/src/macros/uvm_callback_defines.svh...@2857100393 0  ( 0 
+)
+ 0 271 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+2
+0
+1
+0
+ 22 feature_wb_sel_i_range 272 0 0 0 0 0 69 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_sel_range_fn 69 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_sel_range_fn 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 4 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 4 1 1 0 0 1 1 9 range_0_3 273 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_sel_range_fn_0 0 71 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_sel_range_fn_1 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 9 range_4_7 274 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_sel_range_fn_2 0 71 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_sel_range_fn_3 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 10 range_8_11 275 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_sel_range_fn_4 0 71 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_sel_range_fn_5 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 11 range_12_15 276 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_sel_range_fn_6 0 71 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_sel_range_fn_7 0 0 0 0 0
+ 0
+
+ 23 feature_wb_signals_high 279 0 0 0 0 0 71 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_sel_range_fn_8 71 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_sel_range_fn_8 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 4 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 1 0 0 1 1 8 all_high 280 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_sel_range_fn_9 0 0 0 0 0 0 0
+ 0
+
+ 16 feature_wb_sel_i 0 283 0 0 -1 0 0 0 0 2 0 1 -1 0 0 0
+ 0
+ 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 4 1 1 0 0 -1 0 0 1 1 18 all_high_range_0_3 285 0 1 0 1 3 1 0 0 1 9 range_0_3 0 0 0 0 0 1 0 1 1 8 all_high 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 18 all_high_range_4_7 288 0 1 0 1 3 1 0 0 1 9 range_4_7 0 0 0 0 0 1 0 1 1 8 all_high 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 19 all_high_range_8_11 291 0 1 0 1 3 1 0 0 1 10 range_8_11 0 0 0 0 0 1 0 1 1 8 all_high 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 20 all_high_range_12_15 294 0 1 0 1 3 1 0 0 1 11 range_12_15 0 0 0 0 0 1 0 1 1 8 all_high 0 0 0 0 0 0 0 0 0 0 0 0
+
+end_coverage_group
+global coverage_group 0 $unit::funct_coverage::cov_cfg_sdr_trcar_d __coverage_funct_coverage.cov_cfg_sdr_trcar_d unused_funct_coverage_cov_cfg_sdr_trcar_d_loop_label $unit 0 1 0 1 $unit::/apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-ieee/src/macros/snps_macros.svp::/apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-ieee/src/macros/uvm_callback_defines.svh...@2857100393 0  ( 0 
+)
+ 0 299 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+1
+0
+0
+0
+ 23 feature_cfg_sdr_trcar_d 300 0 0 0 0 0 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_cfg_sdr_trcar_d_fn 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_cfg_sdr_trcar_d_fn 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 4 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 3 1 1 0 0 1 1 9 range_1_7 301 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 77 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_cfg_sdr_trcar_d_fn_0 0 77 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_cfg_sdr_trcar_d_fn_1 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 10 range_8_14 302 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 77 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_cfg_sdr_trcar_d_fn_2 0 77 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_cfg_sdr_trcar_d_fn_3 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 8 range_15 303 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 77 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_cfg_sdr_trcar_d_fn_4 0 0 0 0 0 0 0
+ 0
+
+end_coverage_group
+global coverage_group 0 $unit::funct_coverage::cov_cfg_sdr_trp_d __coverage_funct_coverage.cov_cfg_sdr_trp_d unused_funct_coverage_cov_cfg_sdr_trp_d_loop_label $unit 0 1 0 1 $unit::/apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-ieee/src/macros/snps_macros.svp::/apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-ieee/src/macros/uvm_callback_defines.svh...@2857100393 0  ( 0 
+)
+ 0 307 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+1
+0
+0
+0
+ 21 feature_cfg_sdr_trp_d 308 0 0 0 0 0 73 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_cfg_sdr_trp_d_fn 73 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_cfg_sdr_trp_d_fn 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 4 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 3 1 1 0 0 1 1 9 range_1_7 309 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_cfg_sdr_trp_d_fn_0 0 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_cfg_sdr_trp_d_fn_1 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 10 range_8_14 310 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_cfg_sdr_trp_d_fn_2 0 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_cfg_sdr_trp_d_fn_3 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 8 range_15 311 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_cfg_sdr_trp_d_fn_4 0 0 0 0 0 0 0
+ 0
+
+end_coverage_group
+global coverage_group 0 $unit::funct_coverage::cov_cfg_sdr_rfmax __coverage_funct_coverage.cov_cfg_sdr_rfmax unused_funct_coverage_cov_cfg_sdr_rfmax_loop_label $unit 0 1 0 1 $unit::/apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-ieee/src/macros/snps_macros.svp::/apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-ieee/src/macros/uvm_callback_defines.svh...@2857100393 0  ( 0 
+)
+ 0 315 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+1
+0
+0
+0
+ 21 feature_cfg_sdr_rfmax 316 0 0 0 0 0 73 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_cfg_sdr_rfmax_fn 73 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_cfg_sdr_rfmax_fn 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 3 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 2 1 1 0 0 1 1 9 range_1_3 317 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_cfg_sdr_rfmax_fn_0 0 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_cfg_sdr_rfmax_fn_1 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 9 range_4_7 318 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_cfg_sdr_rfmax_fn_2 0 75 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_cfg_sdr_rfmax_fn_3 0 0 0 0 0
+ 0
+
+end_coverage_group
+global coverage_group 0 $unit::funct_coverage::cov_reset_initdone __coverage_funct_coverage.cov_reset_initdone unused_funct_coverage_cov_reset_initdone_loop_label $unit 0 1 0 1 $unit::/apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-ieee/src/macros/snps_macros.svp::/apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-ieee/src/macros/uvm_callback_defines.svh...@2857100393 0  ( 0 
+)
+ 0 322 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+2
+0
+1
+0
+ 22 feature_reset_initdone 323 0 0 0 0 0 74 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_reset_initdone_fn 74 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_reset_initdone_fn 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 1 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 2 1 1 0 0 1 1 7 reset_0 324 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 76 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_reset_initdone_fn_0 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 7 reset_1 325 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 76 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_reset_initdone_fn_1 0 0 0 0 0 0 0
+ 0
+
+ 16 feature_initdone 328 0 0 0 0 0 76 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_reset_initdone_fn_2 76 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_reset_initdone_fn_2 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 1 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 2 1 1 0 0 1 1 6 init_0 329 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 76 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_reset_initdone_fn_0 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 6 init_1 330 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 76 funct_coverage::_vcs_unit__2857100393_funct_coverage_cov_reset_initdone_fn_1 0 0 0 0 0 0 0
+ 0
+
+ 23 feature_RESETN_coverage 0 333 0 0 -1 0 0 0 0 2 0 1 -1 0 0 0
+ 0
+ 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 2 1 1 0 0 -1 0 0 1 1 14 reset_0_init_0 334 0 1 0 1 3 1 0 0 1 7 reset_0 0 0 0 0 0 1 0 1 1 6 init_0 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 14 reset_1_init_1 335 0 1 0 1 3 1 0 0 1 7 reset_1 0 0 0 0 0 1 0 1 1 6 init_1 0 0 0 0 0 0 0 0 0 0 0 0
+
+end_coverage_group
